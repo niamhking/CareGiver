@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192462545295",
+    "project_id": "caregiver-34372",
+    "storage_bucket": "caregiver-34372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192462545295:android:0f967ec5ac85706b08ebfa",
+        "android_client_info": {
+          "package_name": "com.anonymous.CareGiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OYzTAU1Qv06BCXVdPpXCQkSJobcF5b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
